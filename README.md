@@ -4,7 +4,7 @@
 
 ## Overview
 
-The File Encryptor is a Python-based command-line tool that enables users to secure sensitive data by encrypting files. This project uses the `cryptography` library to implement encryption and decryption functionalities, providing a straightforward way to protect and recover data.
+The File Encryptor is a simple Python-based command-line tool that enables users to secure sensitive data by encrypting files. This project uses the `cryptography` library to implement encryption and decryption functionalities, providing a straightforward way to protect and recover data.
 
 ## Features
 
