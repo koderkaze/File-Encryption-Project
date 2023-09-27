@@ -44,7 +44,7 @@ The File Encryptor is a simple Python-based command-line tool that enables users
 
 3. Run the program:
    ```
-   python file_encryptor.py
+   python FileEncryptionProject.py
    ```
 
 ## Author
