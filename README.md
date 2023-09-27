@@ -34,7 +34,7 @@ The File Encryptor is a simple Python-based command-line tool that enables users
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/your-username/file-encryptor.git
+   git clone https://github.com/koderkaze/file-encryption-project.git
    ```
 
 2. Install the required dependencies:
